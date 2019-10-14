@@ -8,3 +8,11 @@ body{
     color: white;
     background-color: black;
 } 
+
+.album_image-container{
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
